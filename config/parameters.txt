@@ -1,0 +1,32 @@
+# comments
+<a href=
+</a>
+<br/>
+<pre>
+</pre>
+<sup>
+</sup>
+<span>
+<body>
+</body>
+<strong>
+</strong>
+</span>
+<tbody>
+</tbody>
+<td>
+</td>
+<tr>
+</tr>
+<table>
+</table>
+<strong [^<]+?>
+<a [^<]+?>
+<span[^<]+?>
+<tbody [^<]+?>
+<td[^<]+?>
+<tr[^<]+?>
+<table[^<]+?>
+<pre[^<]+?>
+<sup[^<]+?>
+style="[^<]+?"
