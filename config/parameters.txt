@@ -1,4 +1,4 @@
-# comments
+# List of tags that will be removed from the "csv" files in the "input_directory"
 <a href=
 </a>
 <br/>
