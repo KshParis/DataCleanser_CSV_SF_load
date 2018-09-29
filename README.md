@@ -1,6 +1,7 @@
 # DataCleanser_CSV_SF_load
 ************************************************************
 *    Utility to split CSV for migration to Salesforce      *
+*    Perform data cleansing also, removing HTML tags if any*
 ************************************************************
 
 Pre-requisites:
